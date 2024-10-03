@@ -1,4 +1,4 @@
-30
+
 Gyarados,100,water,grass,earth,2,Dragon Rage,30,50, ,Bubblebeam,40,40,disable
 Mankey,40,earth, ,fighting,2,Fury Swipes,20,60,wild card,Pranks,0,0,recharge
 Rhyhorn,70,earth,electric,fighting,2,Leer,30,0,stun,Horn Attack,30,40, 
