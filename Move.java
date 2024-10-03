@@ -1,11 +1,4 @@
-/**
- * @(#)Move.java
- * Pokemon Project
- *
- * @Tailai Wang
- * @version 1.00 2017/12/8
- */
-//The Move class is where I control everything related to attacks
+
 import java.util.*;
 public class Move {
 	
