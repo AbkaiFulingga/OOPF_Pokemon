@@ -1,11 +1,4 @@
-/**
- * @(#)Pokemon.java
- * Pokemon Project
- *
- * @Tailai Wang
- * @version 1.00 2017/11/29
- */
-//This is the Pokemon class, where we control everything that a Pokemon is. 
+
 import java.util.*;
 
 public class Pokemon {
